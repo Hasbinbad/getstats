@@ -1,5 +1,7 @@
 import random
 
+# edit to allow pull request
+
 strength1 = random.randint(1, 6); strength2 = random.randint(1, 6)
 strength3 = random.randint(1, 6); strength4 = random.randint(1, 6)
 strength_list = [strength1, strength2, strength3, strength4]
